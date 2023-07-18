@@ -1,3 +1,3 @@
 # electric-network-kit
 
-Empty source code. Head into the wiki for documentation.
+The code section includes a demo for the asset.
